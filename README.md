@@ -10,7 +10,7 @@ This repository open-sources datasets that were foundational for papers as requi
    Computer Aided Systems Theory – EUROCAST 2024 - 19th International Conference, 
    Las Palmas de Gran Canaria, Spain, February 25 – March 1, 2024, 
    Revised Selected Papers, Part I  (pp. 140-147). Springer Nature Switzerland. 
-*ML_GlobOpt/Werth_Eurocast2022_results.zip  
+* ML_GlobOpt/Werth_Eurocast2022_results.zip  
   Werth B, Pitzer E, Karder J, Wagner S, Affenzeller M. (2022). 
   Dynamic Vehicle Routing with Time-Linkage: From Problem States to Algorithm Performance. 
   Computer Aided Systems Theory – EUROCAST 2022 - 18th International Conference, 
