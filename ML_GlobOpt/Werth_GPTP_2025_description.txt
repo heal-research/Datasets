@@ -1,0 +1,16 @@
+CSV File with 14 columns (sep = ";"):
+
+Algorithm	Name of the algorithm (e.g.: "OSGAstd")
+TreeLength	Maximum length of trees
+Problem		Name of the problem instance (see https://github.com/EpistasisLab/pmlb)
+testR2		Pearsons'R² on test partition of best solution
+trainingR2	Pearsons'R² on training partition of best solution
+time		Execution time in hh:mm:ss.fraction
+Evaluations	Number of evaluations 
+Generations	Number of generations 
+Fold		Number of folds for cross validation
+Rows		Rows in the trainingset
+Columns		Columns of the problem instance
+ModelLength	Effective length of best solution
+ModelDepth	Effective depth of best solution
+Threshold	Pruning Threshold (-1 for no pruning)
