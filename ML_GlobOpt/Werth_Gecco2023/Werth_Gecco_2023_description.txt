@@ -1,0 +1,7 @@
+CSV File with 5 columns (sep = ";"; narrow format):
+
+ProblemName		taken from QAPLIB (https://coral.ise.lehigh.edu/data-sets/qaplib/)
+ProblemVersion          epoch number
+Algorithm		AlgorithmName (NW = Neutral Walk, RW = Random Walk, ....);
+Feature			Name of the recored FLA-Feature or MetaInfo (e.g.: Iteration, BestQuality)
+Value			Value of the feature

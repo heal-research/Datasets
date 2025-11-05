@@ -1,0 +1,10 @@
+CSV File with 8 columns (sep = ";"; narrow format):
+
+runId		Id of run for repeated executions
+epochLength	number of Evaluations per epoch
+algorithmName	Name of algorithm
+problemName	Name of Problem (see http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/)
+epoch		Current epoch
+generation	Current generation of the algorithm
+FeatureName	Name of the analysis feature
+value		Value of the analysis feature

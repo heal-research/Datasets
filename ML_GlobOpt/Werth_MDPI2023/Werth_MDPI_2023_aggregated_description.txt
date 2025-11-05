@@ -1,0 +1,14 @@
+Directory contains images created during the run.
+
+Directly storing the raw evaluations would run to 100s of GBs of compressed data for even small experiments.
+
+The Training-directory contains images "Interval <interval length> speedup <actual/achieved speed up> algorithm <algorithm name>.pdf"
+and contains scatter plots x = "Time" vs y = "Prediction vs Actual Duration" with data lines relating to individual machines (numeric ids).
+
+The Gantt-Directory
+contains files of the name 
+"Interval <interval length> Speedup <actual Speed up> Algorithm <algorithm name> Troughput <achieved name>.pdf"
+
+and contain two images: A Gantt chart of the simulated resulting solution
+A scatter plot coparing wall-lock-time (x) to the makespan imagined by the Optimizer at that time
+   
