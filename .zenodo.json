@@ -4,5 +4,13 @@
     {"name": "Werth Bernhard", "orcid": "0000-0002-7830-3138", "affiliation": "University of Applied Sciences Upper Austria"}
   ],
   "keywords": ["dataset", "heuristic optimization", "dynamic optimization"],
-  "notes": "Repository hosts multiple datasets. Each dataset has its own GitHub release and DOI."
+  "notes": "Repository hosts multiple datasets. Each dataset has its own GitHub release and DOI.",
+  "upload_type": "dataset",
+  "funding": [
+    {
+      "funder_name": "Austrian Science Fund (FWF)",
+      "funder_identifier": "https://doi.org/10.13039/501100002428",
+      "grant_identifier": "I-5315"
+    }
+  ]
 }
